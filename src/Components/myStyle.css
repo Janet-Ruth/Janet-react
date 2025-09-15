@@ -10,7 +10,7 @@ body{
 } 
 
 .community-hero {
-  background-image: url("./images/Image1.png");
+  background-image: url("/images/Image1.png");
   angle: 0 deg;
 opacity: 1;
 padding: 85px 0;
@@ -263,7 +263,7 @@ height: 60px;
   display: flex;
   justify-content: center;
   padding: 107px 0;
-  background-image: url("./images/Image2.png");
+  background-image: url("/images/Image2.png");
   margin:  0;
 /* width: 1400px; */
 /* height: 540px; */
@@ -377,7 +377,7 @@ color:#FFFFFF;
 
 .features-container{
   margin: 0;
-  background-image: url('./images/Rectangle3.png');
+  background-image: url('/images/Rectangle3.png');
    width: 100%;
    height: 100vh;
    padding: 0px 0;
@@ -679,7 +679,7 @@ border-radius: 4.04px
 .form-parent{
 display: flex;
 gap:130px;
-background-image:url("./images/Background4.png") ;
+background-image:url("/images/Background4.png") ;
 angle: 0 deg;
 opacity: 1;
 width: 100%;
@@ -1118,7 +1118,7 @@ color:white;
 .action-container{
   display: flex;
   justify-content: center;
-  background-image: url("./images/Background5.png");
+  background-image: url("/images/Background5.png");
   angle: 0 deg;
 opacity: 1;
 padding: 85px 0;
@@ -1930,7 +1930,7 @@ left: 415px; */
 .contact-container{
   display: flex;
   gap:89px;
-   background-image: url('./images/Background8.png');
+   background-image: url('/images/Background8.png');
   padding: 0px 215px;
   width: 100%;
   height:125vh;
@@ -2318,7 +2318,7 @@ border: 2px solid purple;
   width: 100%; 
   height: 200vh; 
   margin:  0;
-  background: url('./images/Mask12.png') no-repeat center center;
+  background: url('/images/Mask12.png') no-repeat center center;
   background-size: cover;
   padding: 20px 0;
 }

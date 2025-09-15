@@ -91,7 +91,7 @@ function Greet() {
       <div className="feature-overhead">
               <div className="mock-parent">
                 <div className="features-content">
-                  <img src="./images/Mockup.png" alt="" className="screen"/>
+                  <img src="/images/Mockup.png" alt="" className="screen"/>
                  </div>
 
               </div>
@@ -264,7 +264,7 @@ function Greet() {
               <div className="website-container">
                 <div className="website-content">
                     <div className="happy_image1">
-                       <img src="./images/Userpic.png" alt=""/>
+                       <img src="/images/Userpic.png" alt=""/>
                       </div>
                       <div className="happy_text1">
                         <div className="site-content">
@@ -278,7 +278,7 @@ function Greet() {
                 </div>
                 <div className="website-content1">
                     <div className="happy_image1">
-                       <img src="./images/Userpic1.png" alt=""/>
+                       <img src="/images/Userpic1.png" alt=""/>
                       </div>
                       <div className="happy_text1">
                         <div className="site-content1">
@@ -293,7 +293,7 @@ function Greet() {
               <div className="website-container2">
                 <div className="website-content2">
                      <div className="happy_image1">
-                       <img src="./images/Userpic2.png" alt=""/>
+                       <img src="/images/Userpic2.png" alt=""/>
                       </div>
                       <div className="happy_text1">
                         <div className="site-content2">
@@ -306,7 +306,7 @@ function Greet() {
                 </div>
                 <div className="website-content3">
                      <div className="happy_image1">
-                       <img src="./images/Userpic3.png" alt=""/>
+                       <img src="/images/Userpic3.png" alt=""/>
                       </div>
                       <div className="happy_text1">
                         <div className="site-content3">
@@ -369,7 +369,7 @@ function Greet() {
               <div className="display_parent">
                 <div className="project-show">
                   <div className="project_image">
-                    <img src="./images/Mask.png" alt=""/>
+                    <img src="/images/Mask.png" alt=""/>
                   </div>
                   <div className="mozart_parent">
                     <div className="mozart-content">
@@ -392,7 +392,7 @@ function Greet() {
                 </div>
                 <div className="project-show1">
                      <div className="project_image">
-                    <img src="./images/Mask1.png" alt=""/>
+                    <img src="/images/Mask1.png" alt=""/>
                   </div>
                   <div className="mozart_parent">
                     <div className="mozart-content">
@@ -416,7 +416,7 @@ function Greet() {
               <div className="display_parent1">
                 <div className="project-show">
                    <div className="project_image">
-                    <img src="./images/Mask2.png" alt=""/>
+                    <img src="/images/Mask2.png" alt=""/>
                   </div>
                   <div className="mozart_parent">
                     <div className="mozart-content">
@@ -437,7 +437,7 @@ function Greet() {
                 </div>
                 <div className="project-show1">
                     <div className="project_image">
-                     <img src="./images/Mask3.png" alt=""/>
+                     <img src="/images/Mask3.png" alt=""/>
                   </div>
                   <div className="mozart_parent">
                     <div className="mozart-content">
@@ -480,7 +480,7 @@ function Greet() {
                   <div className="unique-crew">
                     <div className="persons-parent">
                         <div className="image-face">
-                          <img src="./images/Userpic.png" alt="" className="face1"/>
+                          <img src="/images/Userpic.png" alt="" className="face1"/>
                         </div>
                         <div className="name__content">
                           <div className="name_cover">
@@ -517,7 +517,7 @@ function Greet() {
                        <div className="persons-parent">
                        
                           <div className="image-face">
-                          <img src="./images/Mask7.png" alt="" className="face"/>
+                          <img src="/images/Mask7.png" alt="" className="face"/>
                         </div>
                         <div className="name__content1">
                           <div className="name_cover">
@@ -548,7 +548,7 @@ function Greet() {
 
                      <div className="persons-parent2">
                          <div className="image-face">
-                          <img src="./images/Mask8.png" alt="" className="face"/>
+                          <img src="/images/Mask8.png" alt="" className="face"/>
                         </div>
                         <div className="name__content1">
                           <div className="name_cover1">
@@ -584,7 +584,7 @@ function Greet() {
                   <div className="unique-crew2">
                     <div className="persons-parent3">
                           <div className="image-face">
-                          <img src="./images/Mask9.png" alt="" className="face"/>
+                          <img src="/images/Mask9.png" alt="" className="face"/>
                         </div>
                         <div className="name__content">
                           <div className="name_cover">
@@ -613,7 +613,7 @@ function Greet() {
                     <div className="persons-container2">
                        <div className="persons-parent4">
                              <div className="image-face">
-                          <img src="./images/Mask10.png" alt="" className="face"/>
+                          <img src="/images/Mask10.png" alt="" className="face"/>
                         </div>
                         <div className="name__content1">
                           <div className="name_cover2">
@@ -812,7 +812,7 @@ function Greet() {
                                     <div className="image-check">
                                        <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
@@ -827,7 +827,7 @@ function Greet() {
                                     <div className="image-check">
                                        <i className="fa-solid fa-check custom-check" ></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
@@ -842,7 +842,7 @@ function Greet() {
                                     <div className="image-check">
                                        <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div class="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
@@ -858,7 +858,7 @@ function Greet() {
                                     <div className="image-check">
                                        <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
@@ -871,7 +871,7 @@ function Greet() {
                                   </div> 
                                     <div className="check-parent">
                                      {/* <div className="check-content">
-                                      <img src="./images/Check Icon.png" alt=""/>
+                                      <img src="/images/Check Icon.png" alt=""/>
                                     </div>  */}
                                     <div className="space-parent">
                                       <div className="space-content1">
@@ -882,7 +882,7 @@ function Greet() {
                                   </div>
                                   <div className="check-parent">
                                      {/* <div className="check-content">
-                                      <img src="./images/Check Icon.png" alt=""/>
+                                      <img src="/images/Check Icon.png" alt=""/>
                                     </div>  */}
                                     <div className="space-parent">
                                       <div className="space-content1">
@@ -893,7 +893,7 @@ function Greet() {
                                   </div>
                                   <div className="check-parent">
                                      {/* <div className="check-content">
-                                      <img src="./images/Check Icon.png" alt=""/>
+                                      <img src="/images/Check Icon.png" alt=""/>
                                     </div> */}
                                     <div className="space-parent">
                                       <div className="space-content1">
@@ -907,7 +907,7 @@ function Greet() {
 
 
                                      {/* <div className="check-content">
-                                      <img src="./images/Check Icon.png" alt=""/>
+                                      <img src="/images/Check Icon.png" alt=""/>
                                     </div>   */}
                                     <div className="space-parent">
                                       <div className="space-content1">
@@ -918,7 +918,7 @@ function Greet() {
                                   </div> 
                                   <div className="check-parent">
                                      {/* <div className="check-content">
-                                      <img src="./images/Check Icon.png" alt=""/>
+                                      <img src="/images/Check Icon.png" alt=""/>
                                     </div>  */}
                                     <div className="space-parent">
                                       <div className="space-content1">
@@ -930,7 +930,7 @@ function Greet() {
 
                                     <div className="check-parent">
                                      {/* <div className="check-content">
-                                      <img src="./images/Check Icon.png" alt=""/>
+                                      <img src="/images/Check Icon.png" alt=""/>
                                     </div>  */}
                                     <div className="space-parent">
                                       <div className="space-content1">
@@ -978,7 +978,7 @@ function Greet() {
                                     <div className="image-check">
                                        <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
@@ -993,7 +993,7 @@ function Greet() {
                                     <div className="image-check">
                                        <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
@@ -1023,7 +1023,7 @@ function Greet() {
                                     <div className="image-check">
                                        <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
@@ -1038,7 +1038,7 @@ function Greet() {
                                     <div className="image-check">
                                        <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
@@ -1053,7 +1053,7 @@ function Greet() {
                                     <div className="image-check">
                                        <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
@@ -1067,7 +1067,7 @@ function Greet() {
                                     <div className="image-check">
                                        <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
@@ -1082,7 +1082,7 @@ function Greet() {
                                       <div className="image-check">
                                        {/* <i className="fa-solid fa-check custom-check"></i> */}
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
                                        {/* <i className="fa-solid fa-check custom-check"></i> */}
 
@@ -1100,7 +1100,7 @@ function Greet() {
                                   </div> 
                                   <div className="check-parent">
                                     {/* <div className="check-content">
-                                      <img src="./images/Check Icon.png" alt=""/>
+                                      <img src="/images/Check Icon.png" alt=""/>
                                     </div>  */}
                                     <div className="space-parent">
                                       <div className="space-content5">
@@ -1113,7 +1113,7 @@ function Greet() {
                                     <div className="check-parent">
                                     
                                      {/* <div className="check-content">
-                                      <img src="./images/Check Icon.png" alt=""/>
+                                      <img src="/images/Check Icon.png" alt=""/>
                                     </div> */}
                                     <div className="space-parent">
                                       <div className="space-content5">
@@ -1160,7 +1160,7 @@ function Greet() {
                                     <div className="image-check">
                                         <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
@@ -1175,7 +1175,7 @@ function Greet() {
                                     <div className="image-check">
                                         <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
@@ -1190,7 +1190,7 @@ function Greet() {
                                     <div className="image-check">
                                         <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
@@ -1205,7 +1205,7 @@ function Greet() {
                                     <div className="image-check">
                                         <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
@@ -1220,7 +1220,7 @@ function Greet() {
                                     <div className="image-check">
                                         <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
@@ -1235,7 +1235,7 @@ function Greet() {
                                     <div className="image-check">
                                         <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
@@ -1249,7 +1249,7 @@ function Greet() {
                                     <div className="image-check">
                                         <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
@@ -1263,7 +1263,7 @@ function Greet() {
                                     <div className="image-check">
                                         <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
@@ -1278,7 +1278,7 @@ function Greet() {
                                     <div className="image-check">
                                       <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div>  */}
 
                                     </div>
@@ -1294,7 +1294,7 @@ function Greet() {
                                     <div className="image-check">
                                       <i className="fa-solid fa-check custom-check"></i>
                                       {/* <div className="check-content">
-                                        <img src="./images/Check Icon.png" alt=""/>
+                                        <img src="/images/Check Icon.png" alt=""/>
                                       </div> */}
 
                                     </div>
